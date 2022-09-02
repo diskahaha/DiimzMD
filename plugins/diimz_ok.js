@@ -4,7 +4,7 @@ let hellodiimz = fs.readFileSync('./mp3/iya.opus')
 conn.sendFile(m.chat, hellodiimz, '', '', m, true)
 }
 
-handler.customPrefix = /^(ok)$/i
+handler.customPrefix = /^(ok|oke)$/i
 handler.command = new RegExp
 
 handler.limit = false
