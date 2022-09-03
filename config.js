@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6281270120658','6282144969232'] 
+global.owner = ['6282114579635','6282114579635'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Diimz Official⁩⁩'
-global.numberowner = '6281270120658'
-global.instagram = 'https://www.instagram.com/xydmzzzz'
+global.nameowner = '𝕭𝖔𝖙 • Andii あ⁩⁩'
+global.numberowner = '6282114579635'
+global.instagram = 'https://www.instagram.com/F'
 global.github = '-'
-global.dana = '081270120658'
-global.pulsa = '081270120658'
-global.ovo = '081270120658'
+global.dana = '082114579635'
+global.pulsa = '082114579635'
+global.ovo = '082114579635'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Diimz Bot'
-global.gc = 'https://chat.whatsapp.com/IovbYmdWeSKCOr52o9wsaZ'
-global.web = 'https://youtube.com/channel/UC6QMJdMtd8ljZYO8Liypwng' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '𝕭𝖔𝖙'
+global.gc = 'https://chat.whatsapp.com/FSRXTqGIWiWFFClpCbWkZ8'
+global.web = 'https://youtu.be/oEQzit5cr2g' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/h4YWDfwV/Picsart-22-07-11-14-48-55-85316581521348261658152169290.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/h4YWDfwV/Picsart-22-07-11-14-48-55-85316581521348261658152169290.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Diimz Bot'
+global.wm = '𝕭𝖔𝖙 • Andii あ'
 global.watermark = wm
-global.wm2 = '                     「 Diimz Bot 」 '
-global.wm3 = 'Diimz Official'
+global.wm2 = '                     「 𝕭𝖔𝖙 • Andii あ 」 '
+global.wm3 = '𝕭𝖔𝖙 • Andii Official'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg'
+global.media = 'https://i.postimg.cc/h4YWDfwV/Picsart-22-07-11-14-48-55-85316581521348261658152169290.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stickers In Making...'
-global.packname = 'Diimz-Bot'
-global.author = '@6283876786535⁩⁩'
+global.packname = '𝕭𝖔𝖙 • Andii あ'
+global.author = '@𝕭𝖔𝖙 • Andii あ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
